@@ -1,6 +1,6 @@
-# Mi Todo App
+# aun pendiente el nombre es probicional 
 
-Aplicación web de lista de tareas hecha con **React** y **Vite**. Permite agregar tareas, marcarlas como completadas, eliminarlas y filtrarlas, con un diseño sencillo en forma de tabla al estilo de las páginas de los años 2000, en tonos morados y con un GIF de fondo.
+Aplicación web de lista de tareas hecha con **React** y **Vite**. Permite agregar tareas, marcarlas como completadas, eliminarlas y filtrarlas, con un diseño sencillo en forma de tabla tipo  un doslmiles, y un fondo animado ,cambienlosi quieren wbn ,mentalist btw.
 
 ## Funciones
 
@@ -11,7 +11,7 @@ Aplicación web de lista de tareas hecha con **React** y **Vite**. Permite agreg
 - **Contador:** muestra en tiempo real cuántas tareas pendientes quedan.
 - **Guardado automático:** las tareas se guardan en el `localStorage` del navegador, así que no se pierden al recargar la página.
 
-## Tecnologías
+##Que se uso para el prpyecto
 
 - React
 - Vite
@@ -20,7 +20,9 @@ Aplicación web de lista de tareas hecha con **React** y **Vite**. Permite agreg
 
 ## Estructura del proyecto
 
-```
+
+
+
 mi-todo-app/
 ├── public/
 │   └── fondo-todo.gif
@@ -34,8 +36,8 @@ mi-todo-app/
 │   ├── App.css
 │   ├── App.jsx
 │   └── todo-main.jsx
-├── todo-app.html
-└── vite.config.js
+todo-app.html
+ vite.config.js
 ```
 
 El archivo HTML principal se llama `todo-app.html` y no `index.html`. Por eso `vite.config.js` indica cuál es la página de entrada.
@@ -124,6 +126,9 @@ Los archivos finales se crean en la carpeta `dist`. Para probarlos localmente:
 npm run preview
 ```
 
-## Autor
+no haymucho mas que decir  i use arch btw
+by pasto-secoy ,yulian aranis
 
-Abimelec Navarro González
+
+<img width="720" height="720" alt="Maka Albarn icon _ Soul eater" src="https://github.com/user-attachments/assets/42827f7a-b611-412e-9874-b3312e847d96" />
+
